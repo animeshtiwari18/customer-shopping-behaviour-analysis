@@ -52,6 +52,8 @@ This project analyzes customer behavior using Python, SQL, and Power BI.
 
 !\[Dashboard](dashboard.png)
 
+!(dashboard.png)
+
 
 
 \## 🙌 Author
